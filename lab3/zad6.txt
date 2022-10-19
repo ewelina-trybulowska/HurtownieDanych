@@ -1,0 +1,2 @@
+BusinessEntityID;PersonType;NameStyle;Title;FirstName;MiddleName;LastName;Suffix;EmailPromotion;AdditionalContactInfo;Demographics;rowguid;ModifiedDate
+20880;EM;False;Mr.;Chris;Albert;White;;0;;;{92C4279F-1207-48A3-8448-4636514EB7E3};2022-10-19 23:03:14.007000000
